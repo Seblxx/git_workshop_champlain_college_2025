@@ -1,3 +1,5 @@
-Hello from the main branch!
-This is a line that will cause a conflict. Nicholas Martoccia 2131595
+Hello from the other branch!
+IM RECOMMITING SOMETHING ELSE
+This is a line that will cause a conflict. Sebastien Legagneur 2231321
 Goodbye from the main branch!
+This is a line changed by Sebastien
