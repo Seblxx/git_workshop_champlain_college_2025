@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello from the other branch!
 IM RECOMMITING SOMETHING ELSE
 This is a line that will cause a conflict. Sebastien Legagneur 2231321
@@ -5,3 +6,9 @@ Goodbye from the main branch!
 This is a line changed by Sebastien
 lalalalalla
 asdp9rjgkd
+=======
+Hello from the main branch!
+no.
+This is a line changed by sebastien
+Goodbye from the main branch!
+>>>>>>> sebastien_legagneur
